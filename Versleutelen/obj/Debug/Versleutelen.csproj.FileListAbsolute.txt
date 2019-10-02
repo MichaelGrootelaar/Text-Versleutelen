@@ -1,0 +1,10 @@
+C:\Users\Doomsdayman\source\repos\Versleutelen\Versleutelen\bin\Debug\Versleutelen.exe.config
+C:\Users\Doomsdayman\source\repos\Versleutelen\Versleutelen\bin\Debug\Versleutelen.exe
+C:\Users\Doomsdayman\source\repos\Versleutelen\Versleutelen\bin\Debug\Versleutelen.pdb
+C:\Users\Doomsdayman\source\repos\Versleutelen\Versleutelen\obj\Debug\Versleutelen.csprojAssemblyReference.cache
+C:\Users\Doomsdayman\source\repos\Versleutelen\Versleutelen\obj\Debug\Versleutelen.Form1.resources
+C:\Users\Doomsdayman\source\repos\Versleutelen\Versleutelen\obj\Debug\Versleutelen.Properties.Resources.resources
+C:\Users\Doomsdayman\source\repos\Versleutelen\Versleutelen\obj\Debug\Versleutelen.csproj.GenerateResource.cache
+C:\Users\Doomsdayman\source\repos\Versleutelen\Versleutelen\obj\Debug\Versleutelen.csproj.CoreCompileInputs.cache
+C:\Users\Doomsdayman\source\repos\Versleutelen\Versleutelen\obj\Debug\Versleutelen.exe
+C:\Users\Doomsdayman\source\repos\Versleutelen\Versleutelen\obj\Debug\Versleutelen.pdb
